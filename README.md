@@ -3,7 +3,7 @@ Analysis and examination of the relationship between errors in the codes on the 
 
 code4bench is now available for download at http://doi.org/10.5281/zenodo.2582968
 
-# Question (import)
+# Questions (import)
 We aim to perform fault localization with the help of a network. To do this, it's necessary to first obtain the required information from the program. Then, by using network analysis tools like Gephi, we carry out the analysis.<br>
 The information needed in the program for constructing the network includes:<br>
 
